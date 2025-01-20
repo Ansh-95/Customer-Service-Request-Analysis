@@ -32,7 +32,7 @@ pip install pandas matplotlib seaborn scipy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Customer-Service-Request-Analysis.git
+git clone https://github.com/Ansh-95/Customer-Service-Request-Analysis.git
 ```
 
 2. Navigate to the project directory:
